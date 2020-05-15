@@ -1,0 +1,6 @@
+X_USERNAME=moizsajdev
+X_PASSWORD=Saja2and
+X_REPONAME=moizsajdev/werckerdemo-1505
+X_TAGNAME="1505"
+X_CNT_NAME=test-wercker-container
+X_IMAGE_BASE="moizsajdev/werckerdemo-1505" 
